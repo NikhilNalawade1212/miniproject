@@ -1,0 +1,1 @@
+Developed a Python mini project using core Python concepts such as variables, data types, loops, conditional statements, and functions. The project focuses on solving practical problems, improving programming skills, and understanding real-world applications of Python
